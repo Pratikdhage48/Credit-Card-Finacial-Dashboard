@@ -44,8 +44,7 @@ Segments customers by age, job, education, income, and more
 
 Helps business users identify high-value customer groups and optimize targeting strategies
 
-• Walkthrough of Key Visuals
-
+🏂 Walkthrough of Key Visuals
 
 🔹 Credit Card Transaction Report
 
@@ -61,7 +60,6 @@ Expenditure Analysis: Bills, entertainment, and groceries generate highest reven
 
 Customer Job Insight: Businessmen are the top contributors
 
-
 🔹 Credit Card Customer Report
 
 Weekly Revenue Trend: Time-series view of revenue throughout the year
@@ -76,9 +74,17 @@ Dependent and Salary Group Analysis: High salary and dependents positively corre
 
 Job Categories: Businessmen again dominate followed by white-collar and government workers
 
+📈 Business Impact & Insights
 
+Marketing Optimization: Identify top revenue-generating demographics (e.g., graduates, 40–50 age group) to target personalized campaigns
 
+Product Strategy: Understand which card types (Blue, Silver) are most used and profitable
 
+Cost Efficiency: High acquisition cost for Blue card customers suggests potential for reevaluation
+
+Risk Mitigation: Spot low-engagement segments and reduce churn
+
+Revenue Forecasting: Seasonal trends across quarters help plan product offers and campaigns
 
 
 
