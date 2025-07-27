@@ -74,7 +74,7 @@ Dependent and Salary Group Analysis: High salary and dependents positively corre
 
 Job Categories: Businessmen again dominate followed by white-collar and government workers
 
-📈 Business Impact & Insights
+📈 Business Impact & Insights 
 
 Marketing Optimization: Identify top revenue-generating demographics (e.g., graduates, 40–50 age group) to target personalized campaigns
 
